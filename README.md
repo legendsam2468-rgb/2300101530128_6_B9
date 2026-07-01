@@ -208,7 +208,7 @@ Loan_Predictions.csv
 
 ## Author
 
-**Samarth Bisht**
+**Tulika Malviya**
 
 Summer Internship Project 2026
 
